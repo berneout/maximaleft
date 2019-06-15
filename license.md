@@ -66,7 +66,7 @@ No contributor can revoke this license.
 
 ## Excuse
 
-If anyone notifies you in writing that you have broken [Notice](#notices) or [Copyleft](#copyleft), you can keep your license by taking all practical steps to comply within 32 days of receiving that notice.  Otherwise, your agreement under these terms ends immediately, and your license for this software ends with it.
+If anyone notifies you in writing that you have broken [Notice](#notices) or [Copyleft](#copyleft), you can keep your license by taking all practical steps to comply within 32 days of receiving that notice.  Otherwise, your agreement under these terms ends immediately, and your license for this software ends with it.  [Excuse](#excuse) is available to you only once.
 
 <!-- Derived from the Blue Oak Model License. -->
 
