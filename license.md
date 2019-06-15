@@ -32,7 +32,7 @@ When this license requires you to contribute software:
 
 <!-- Directions Rule -->
 
-3.  If you make the software available to others---by sharing copies with them, making available for them to use, directly or indirectly, or use to process data from or about them---provide them directions to find the work you published and notice of the terms for it, such as by including notice of a distribution system address with copies of the software, changing the software to give users notice of an address, or answering inquiries from users whose data is processed.
+3.  If you make that software available to others---by sharing copies with them, making available for them to use, directly or indirectly, or use to process data from or about them---provide them directions to find the work you published and notice of the terms for it, such as by including notice of a distribution system address with copies of that software, changing that software to give users notice of an address, or answering inquiries from users whose data is processed.
 
 <!-- Adapted from the Copyleft rule of Temerity. -->
 
