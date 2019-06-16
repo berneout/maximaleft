@@ -16,7 +16,7 @@ In order to receive this license, you must agree to its rules.  The rules of thi
 
 ## Copyleft
 
-As far as the law allows, you must contribute all software that you develop or use with this software.
+As far as the law allows, this license requires you to contribute all software that you develop or use with this software.
 
 ## Contribute
 
